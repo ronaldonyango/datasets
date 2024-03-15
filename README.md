@@ -13,4 +13,5 @@
 You'll see two types of suicide death rates in this dataset:
 - **Crude Death Rate per 100,000**: This shows the raw number of suicides per 100,000 people. However, it can be misleading because populations have different age structures. For example, a country with a larger elderly population might naturally have a higher crude death rate (from all causes, not just suicide) simply because older people are more likely to die.
 - **Age-Standardized Death Rate per 100,000**: This is a more accurate comparison that adjusts for age differences between populations. It allows us to compare suicide rates across countries or over time while accounting for variations in age distribution.
+
 By incorporating both types of rates, this dataset equips you to make more nuanced analyses of global suicide trends.
