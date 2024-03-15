@@ -1,4 +1,4 @@
-# **KAGGLE DATASETS**
+# DATASETS
 ## 1. Suicide Rates & Socioeconomic Factors (1990 - 2022)
 
 ### **Description** 
